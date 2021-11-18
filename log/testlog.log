@@ -1,0 +1,311 @@
+2021-11-17 14:05:04,133 - inetbanking -INFO - URL launched
+2021-11-17 14:05:04,289 - inetbanking -INFO - Entered username
+2021-11-17 14:05:04,336 - inetbanking -INFO - Entered password
+2021-11-17 14:05:05,805 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 14:05:05,815 - inetbanking -INFO - Got expected Title
+2021-11-17 14:05:11,900 - inetbanking -INFO - URL launched
+2021-11-17 14:05:12,059 - inetbanking -INFO - Entered username
+2021-11-17 14:05:12,180 - inetbanking -INFO - Entered password
+2021-11-17 14:05:13,787 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 14:05:13,811 - inetbanking -INFO - Got expected Title
+2021-11-17 14:25:41,179 - inetbanking -INFO - URL launched
+2021-11-17 14:25:41,356 - inetbanking -INFO - Entered username
+2021-11-17 14:25:41,494 - inetbanking -INFO - Entered password
+2021-11-17 14:25:43,088 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 14:25:43,112 - inetbanking -INFO - Got expected Title
+2021-11-17 14:30:10,286 - inetbanking -INFO - URL launched
+2021-11-17 14:30:10,462 - inetbanking -INFO - Entered username
+2021-11-17 14:30:10,594 - inetbanking -INFO - Entered password
+2021-11-17 14:30:12,216 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 14:30:12,236 - inetbanking -INFO - Got expected Title
+2021-11-17 16:53:57,553 - inetbanking -INFO - URL launched
+2021-11-17 16:53:57,732 - inetbanking -INFO - Entered username
+2021-11-17 16:53:57,860 - inetbanking -INFO - Entered password
+2021-11-17 16:53:59,596 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 16:56:52,673 - inetbanking -INFO - URL launched
+2021-11-17 16:56:52,856 - inetbanking -INFO - Entered username
+2021-11-17 16:56:52,976 - inetbanking -INFO - Entered password
+2021-11-17 16:56:55,013 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 16:56:55,036 - inetbanking -INFO - Got unexpected Title
+2021-11-17 17:03:36,144 - inetbanking -INFO - URL launched
+2021-11-17 17:03:36,342 - inetbanking -INFO - Entered username
+2021-11-17 17:03:36,474 - inetbanking -INFO - Entered password
+2021-11-17 17:03:38,343 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 17:03:38,359 - inetbanking -INFO - Got unexpected Title
+2021-11-17 17:05:32,628 - inetbanking -INFO - URL launched
+2021-11-17 17:05:32,805 - inetbanking -INFO - Entered username
+2021-11-17 17:05:32,928 - inetbanking -INFO - Entered password
+2021-11-17 17:05:34,454 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 17:05:34,467 - inetbanking -INFO - Got unexpected Title
+2021-11-17 17:09:08,622 - inetbanking -INFO - URL launched
+2021-11-17 17:09:08,823 - inetbanking -INFO - Entered username
+2021-11-17 17:09:08,955 - inetbanking -INFO - Entered password
+2021-11-17 17:09:10,675 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 17:09:11,090 - inetbanking -INFO - Got unexpected Title
+2021-11-17 19:14:31,861 - inetbanking -INFO - URL launched
+2021-11-17 19:14:32,101 - inetbanking -INFO - Entered username
+2021-11-17 19:14:32,241 - inetbanking -INFO - Entered password
+2021-11-17 19:14:34,304 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 19:14:34,645 - inetbanking -INFO - Got unexpected Title
+2021-11-17 19:18:39,893 - inetbanking -INFO - URL launched
+2021-11-17 19:18:40,086 - inetbanking -INFO - Entered username
+2021-11-17 19:18:40,209 - inetbanking -INFO - Entered password
+2021-11-17 19:18:42,080 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 19:18:42,377 - inetbanking -INFO - Got unexpected Title
+2021-11-17 19:23:53,805 - inetbanking -INFO - URL launched
+2021-11-17 19:23:54,004 - inetbanking -INFO - Entered username
+2021-11-17 19:23:54,133 - inetbanking -INFO - Entered password
+2021-11-17 19:23:56,301 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 19:23:56,321 - inetbanking -INFO - Got expected Title
+2021-11-17 19:43:27,117 - inetbanking -INFO - Entered username
+2021-11-17 19:43:27,259 - inetbanking -INFO - Entered password
+2021-11-17 19:43:29,205 - inetbanking -INFO - clicked on login button
+2021-11-17 19:43:30,047 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-17 19:43:30,172 - inetbanking -INFO - Entered customer name
+2021-11-17 19:43:30,311 - inetbanking -INFO - Entered date of birth
+2021-11-17 19:43:30,473 - inetbanking -INFO - Entered Address
+2021-11-17 19:43:30,584 - inetbanking -INFO - Entered city name
+2021-11-17 19:43:30,751 - inetbanking -INFO - Entered state name
+2021-11-17 19:43:30,856 - inetbanking -INFO - Entered pincode
+2021-11-17 19:43:30,977 - inetbanking -INFO - Entered Mobile number
+2021-11-17 19:43:31,123 - inetbanking -INFO - Entered Email id
+2021-11-17 19:43:31,215 - inetbanking -INFO - Entered password
+2021-11-17 19:43:32,822 - inetbanking -INFO - Clicked on submit
+2021-11-17 19:48:52,428 - inetbanking -INFO - Entered username
+2021-11-17 19:48:52,573 - inetbanking -INFO - Entered password
+2021-11-17 19:48:54,412 - inetbanking -INFO - clicked on login button
+2021-11-17 19:48:55,090 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-17 19:48:55,213 - inetbanking -INFO - Entered customer name
+2021-11-17 19:48:55,349 - inetbanking -INFO - Entered date of birth
+2021-11-17 19:48:55,518 - inetbanking -INFO - Entered Address
+2021-11-17 19:48:55,646 - inetbanking -INFO - Entered city name
+2021-11-17 19:48:55,764 - inetbanking -INFO - Entered state name
+2021-11-17 19:48:55,867 - inetbanking -INFO - Entered pincode
+2021-11-17 19:48:55,996 - inetbanking -INFO - Entered Mobile number
+2021-11-17 19:48:56,150 - inetbanking -INFO - Entered Email id
+2021-11-17 19:48:56,247 - inetbanking -INFO - Entered password
+2021-11-17 19:48:57,928 - inetbanking -INFO - Clicked on submit
+2021-11-17 19:48:57,957 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-17 19:50:35,069 - inetbanking -INFO - URL launched
+2021-11-17 19:50:35,248 - inetbanking -INFO - Entered username
+2021-11-17 19:50:35,400 - inetbanking -INFO - Entered password
+2021-11-17 19:50:36,842 - inetbanking -INFO - Clicked on Login Button
+2021-11-17 19:50:36,853 - inetbanking -INFO - Got expected Title
+2021-11-17 19:50:44,200 - inetbanking -INFO - Entered username
+2021-11-17 19:50:44,347 - inetbanking -INFO - Entered password
+2021-11-17 19:50:46,728 - inetbanking -INFO - clicked on login button
+2021-11-17 19:50:47,379 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-17 19:50:47,514 - inetbanking -INFO - Entered customer name
+2021-11-17 19:50:47,642 - inetbanking -INFO - Entered date of birth
+2021-11-17 19:50:47,816 - inetbanking -INFO - Entered Address
+2021-11-17 19:50:47,951 - inetbanking -INFO - Entered city name
+2021-11-17 19:50:48,067 - inetbanking -INFO - Entered state name
+2021-11-17 19:50:48,149 - inetbanking -INFO - Entered pincode
+2021-11-17 19:50:48,275 - inetbanking -INFO - Entered Mobile number
+2021-11-17 19:50:48,427 - inetbanking -INFO - Entered Email id
+2021-11-17 19:50:48,522 - inetbanking -INFO - Entered password
+2021-11-17 19:50:50,225 - inetbanking -INFO - Clicked on submit
+2021-11-17 19:50:50,248 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 10:26:27,123 - inetbanking -INFO - URL launched
+2021-11-18 10:26:27,457 - inetbanking -INFO - Entered username
+2021-11-18 10:26:27,584 - inetbanking -INFO - Entered password
+2021-11-18 10:26:29,317 - inetbanking -INFO - Clicked on Login Button
+2021-11-18 10:26:29,345 - inetbanking -INFO - Got expected Title
+2021-11-18 10:27:43,330 - inetbanking -INFO - URL launched
+2021-11-18 10:27:43,490 - inetbanking -INFO - Entered username
+2021-11-18 10:27:43,609 - inetbanking -INFO - Entered password
+2021-11-18 10:27:45,147 - inetbanking -INFO - Clicked on Login Button
+2021-11-18 10:27:45,164 - inetbanking -INFO - Got expected Title
+2021-11-18 10:27:52,272 - inetbanking -INFO - Entered username
+2021-11-18 10:27:52,395 - inetbanking -INFO - Entered password
+2021-11-18 10:27:54,314 - inetbanking -INFO - clicked on login button
+2021-11-18 10:27:55,183 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 10:27:55,311 - inetbanking -INFO - Entered customer name
+2021-11-18 10:27:55,416 - inetbanking -INFO - Entered date of birth
+2021-11-18 10:27:55,577 - inetbanking -INFO - Entered Address
+2021-11-18 10:27:55,730 - inetbanking -INFO - Entered city name
+2021-11-18 10:27:55,852 - inetbanking -INFO - Entered state name
+2021-11-18 10:27:55,964 - inetbanking -INFO - Entered pincode
+2021-11-18 10:27:56,073 - inetbanking -INFO - Entered Mobile number
+2021-11-18 10:27:56,214 - inetbanking -INFO - Entered Email id
+2021-11-18 10:27:56,309 - inetbanking -INFO - Entered password
+2021-11-18 10:27:58,223 - inetbanking -INFO - Clicked on submit
+2021-11-18 10:27:58,249 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 10:28:37,700 - inetbanking -INFO - URL launched
+2021-11-18 10:28:37,871 - inetbanking -INFO - Entered username
+2021-11-18 10:28:37,992 - inetbanking -INFO - Entered password
+2021-11-18 10:28:39,583 - inetbanking -INFO - Clicked on Login Button
+2021-11-18 10:28:39,605 - inetbanking -INFO - Got expected Title
+2021-11-18 10:30:27,331 - inetbanking -INFO - Entered username
+2021-11-18 10:36:13,411 - inetbanking -INFO - Entered username
+2021-11-18 10:38:06,971 - inetbanking -INFO - Entered username
+2021-11-18 10:39:09,508 - inetbanking -INFO - Entered username
+2021-11-18 10:39:09,631 - inetbanking -INFO - Entered password
+2021-11-18 10:39:11,474 - inetbanking -INFO - clicked on login button
+2021-11-18 10:39:12,350 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 10:39:12,473 - inetbanking -INFO - Entered customer name
+2021-11-18 10:39:12,590 - inetbanking -INFO - Entered date of birth
+2021-11-18 10:39:12,741 - inetbanking -INFO - Entered Address
+2021-11-18 10:39:12,863 - inetbanking -INFO - Entered city name
+2021-11-18 10:39:12,981 - inetbanking -INFO - Entered state name
+2021-11-18 10:39:13,092 - inetbanking -INFO - Entered pincode
+2021-11-18 10:39:13,231 - inetbanking -INFO - Entered Mobile number
+2021-11-18 10:39:13,372 - inetbanking -INFO - Entered Email id
+2021-11-18 10:39:13,466 - inetbanking -INFO - Entered password
+2021-11-18 10:39:15,167 - inetbanking -INFO - Clicked on submit
+2021-11-18 10:39:15,193 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 10:46:52,673 - inetbanking -INFO - Entered username
+2021-11-18 10:55:01,875 - inetbanking -INFO - Entered username
+2021-11-18 10:55:02,022 - inetbanking -INFO - Entered password
+2021-11-18 10:55:03,817 - inetbanking -INFO - clicked on login button
+2021-11-18 10:55:04,774 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 10:55:04,983 - inetbanking -INFO - Entered customer name
+2021-11-18 10:55:05,115 - inetbanking -INFO - Entered date of birth
+2021-11-18 10:55:05,256 - inetbanking -INFO - Entered Address
+2021-11-18 10:55:05,381 - inetbanking -INFO - Entered city name
+2021-11-18 10:55:05,500 - inetbanking -INFO - Entered state name
+2021-11-18 10:55:05,603 - inetbanking -INFO - Entered pincode
+2021-11-18 10:55:05,722 - inetbanking -INFO - Entered Mobile number
+2021-11-18 10:55:05,867 - inetbanking -INFO - Entered Email id
+2021-11-18 10:55:05,966 - inetbanking -INFO - Entered password
+2021-11-18 10:55:07,487 - inetbanking -INFO - Clicked on submit
+2021-11-18 10:55:07,512 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 11:30:57,384 - inetbanking -INFO - Entered username
+2021-11-18 11:30:57,610 - inetbanking -INFO - Entered password
+2021-11-18 11:30:59,391 - inetbanking -INFO - clicked on login button
+2021-11-18 11:31:00,041 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 11:31:00,164 - inetbanking -INFO - Entered customer name
+2021-11-18 11:31:00,321 - inetbanking -INFO - Entered date of birth
+2021-11-18 11:31:00,524 - inetbanking -INFO - Entered Address
+2021-11-18 11:31:00,637 - inetbanking -INFO - Entered city name
+2021-11-18 11:31:00,759 - inetbanking -INFO - Entered state name
+2021-11-18 11:31:00,880 - inetbanking -INFO - Entered pincode
+2021-11-18 11:31:00,999 - inetbanking -INFO - Entered Mobile number
+2021-11-18 11:31:01,156 - inetbanking -INFO - Entered Email id
+2021-11-18 11:31:01,255 - inetbanking -INFO - Entered password
+2021-11-18 11:31:02,794 - inetbanking -INFO - Clicked on submit
+2021-11-18 11:31:02,818 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 11:42:08,139 - inetbanking -INFO - Entered username
+2021-11-18 11:42:08,276 - inetbanking -INFO - Entered password
+2021-11-18 11:42:10,320 - inetbanking -INFO - clicked on login button
+2021-11-18 11:42:10,973 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 11:42:11,108 - inetbanking -INFO - Entered customer name
+2021-11-18 11:42:11,242 - inetbanking -INFO - Entered date of birth
+2021-11-18 11:42:11,426 - inetbanking -INFO - Entered Address
+2021-11-18 11:42:11,563 - inetbanking -INFO - Entered city name
+2021-11-18 11:42:11,685 - inetbanking -INFO - Entered state name
+2021-11-18 11:42:11,799 - inetbanking -INFO - Entered pincode
+2021-11-18 11:42:11,932 - inetbanking -INFO - Entered Mobile number
+2021-11-18 11:42:12,102 - inetbanking -INFO - Entered Email id
+2021-11-18 11:42:12,201 - inetbanking -INFO - Entered password
+2021-11-18 11:42:12,885 - inetbanking -INFO - Clicked on submit
+2021-11-18 11:42:52,342 - inetbanking -INFO - Entered username
+2021-11-18 11:42:52,467 - inetbanking -INFO - Entered password
+2021-11-18 11:42:54,380 - inetbanking -INFO - clicked on login button
+2021-11-18 11:42:55,057 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 11:42:55,193 - inetbanking -INFO - Entered customer name
+2021-11-18 11:42:55,334 - inetbanking -INFO - Entered date of birth
+2021-11-18 11:42:55,475 - inetbanking -INFO - Entered Address
+2021-11-18 11:42:55,602 - inetbanking -INFO - Entered city name
+2021-11-18 11:42:55,717 - inetbanking -INFO - Entered state name
+2021-11-18 11:42:55,818 - inetbanking -INFO - Entered pincode
+2021-11-18 11:42:55,926 - inetbanking -INFO - Entered Mobile number
+2021-11-18 11:42:56,069 - inetbanking -INFO - Entered Email id
+2021-11-18 11:42:56,164 - inetbanking -INFO - Entered password
+2021-11-18 11:42:57,874 - inetbanking -INFO - Clicked on submit
+2021-11-18 11:42:57,904 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 11:47:10,764 - inetbanking -INFO - Entered username
+2021-11-18 11:47:10,915 - inetbanking -INFO - Entered password
+2021-11-18 11:47:13,020 - inetbanking -INFO - clicked on login button
+2021-11-18 11:47:13,876 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 11:47:13,984 - inetbanking -INFO - Entered customer name
+2021-11-18 11:47:14,143 - inetbanking -INFO - Entered date of birth
+2021-11-18 11:47:14,297 - inetbanking -INFO - Entered Address
+2021-11-18 11:47:14,422 - inetbanking -INFO - Entered city name
+2021-11-18 11:47:14,536 - inetbanking -INFO - Entered state name
+2021-11-18 11:47:14,637 - inetbanking -INFO - Entered pincode
+2021-11-18 11:47:14,744 - inetbanking -INFO - Entered Mobile number
+2021-11-18 11:47:14,895 - inetbanking -INFO - Entered Email id
+2021-11-18 11:47:14,993 - inetbanking -INFO - Entered password
+2021-11-18 11:47:16,680 - inetbanking -INFO - Clicked on submit
+2021-11-18 11:47:16,709 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 14:31:00,696 - inetbanking -INFO - URL launched
+2021-11-18 14:31:00,984 - inetbanking -INFO - Entered username
+2021-11-18 14:31:01,125 - inetbanking -INFO - Entered password
+2021-11-18 14:31:02,698 - inetbanking -INFO - Clicked on Login Button
+2021-11-18 14:31:02,732 - inetbanking -INFO - Got expected Title
+2021-11-18 14:31:11,139 - inetbanking -INFO - Entered username
+2021-11-18 14:31:11,264 - inetbanking -INFO - Entered password
+2021-11-18 14:31:13,251 - inetbanking -INFO - clicked on login button
+2021-11-18 14:31:13,982 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 14:31:14,096 - inetbanking -INFO - Entered customer name
+2021-11-18 14:31:14,215 - inetbanking -INFO - Entered date of birth
+2021-11-18 14:31:14,351 - inetbanking -INFO - Entered Address
+2021-11-18 14:31:14,492 - inetbanking -INFO - Entered city name
+2021-11-18 14:31:14,637 - inetbanking -INFO - Entered state name
+2021-11-18 14:31:14,724 - inetbanking -INFO - Entered pincode
+2021-11-18 14:31:14,867 - inetbanking -INFO - Entered Mobile number
+2021-11-18 14:31:15,023 - inetbanking -INFO - Entered Email id
+2021-11-18 14:31:15,118 - inetbanking -INFO - Entered password
+2021-11-18 14:31:16,638 - inetbanking -INFO - Clicked on submit
+2021-11-18 14:31:16,686 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 14:32:04,153 - inetbanking -INFO - URL launched
+2021-11-18 14:32:04,372 - inetbanking -INFO - Entered username
+2021-11-18 14:32:04,512 - inetbanking -INFO - Entered password
+2021-11-18 14:32:06,153 - inetbanking -INFO - Clicked on Login Button
+2021-11-18 14:32:06,170 - inetbanking -INFO - Got expected Title
+2021-11-18 14:32:13,666 - inetbanking -INFO - Entered username
+2021-11-18 14:32:13,804 - inetbanking -INFO - Entered password
+2021-11-18 14:32:15,805 - inetbanking -INFO - clicked on login button
+2021-11-18 14:32:16,668 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 14:32:16,799 - inetbanking -INFO - Entered customer name
+2021-11-18 14:32:16,907 - inetbanking -INFO - Entered date of birth
+2021-11-18 14:32:17,079 - inetbanking -INFO - Entered Address
+2021-11-18 14:32:17,204 - inetbanking -INFO - Entered city name
+2021-11-18 14:32:17,344 - inetbanking -INFO - Entered state name
+2021-11-18 14:32:17,485 - inetbanking -INFO - Entered pincode
+2021-11-18 14:32:17,624 - inetbanking -INFO - Entered Mobile number
+2021-11-18 14:32:17,772 - inetbanking -INFO - Entered Email id
+2021-11-18 14:32:17,865 - inetbanking -INFO - Entered password
+2021-11-18 14:32:19,615 - inetbanking -INFO - Clicked on submit
+2021-11-18 14:32:19,645 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 14:50:01,484 - inetbanking -INFO - URL launched
+2021-11-18 14:50:01,686 - inetbanking -INFO - Entered username
+2021-11-18 14:50:01,811 - inetbanking -INFO - Entered password
+2021-11-18 14:50:03,964 - inetbanking -INFO - Clicked on Login Button
+2021-11-18 14:50:03,985 - inetbanking -INFO - Got expected Title
+2021-11-18 14:50:11,556 - inetbanking -INFO - Entered username
+2021-11-18 14:50:11,676 - inetbanking -INFO - Entered password
+2021-11-18 14:50:14,048 - inetbanking -INFO - clicked on login button
+2021-11-18 14:50:14,977 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 14:50:15,093 - inetbanking -INFO - Entered customer name
+2021-11-18 14:50:15,209 - inetbanking -INFO - Entered date of birth
+2021-11-18 14:50:15,380 - inetbanking -INFO - Entered Address
+2021-11-18 14:50:15,491 - inetbanking -INFO - Entered city name
+2021-11-18 14:50:15,601 - inetbanking -INFO - Entered state name
+2021-11-18 14:50:15,702 - inetbanking -INFO - Entered pincode
+2021-11-18 14:50:15,812 - inetbanking -INFO - Entered Mobile number
+2021-11-18 14:50:15,954 - inetbanking -INFO - Entered Email id
+2021-11-18 14:50:16,046 - inetbanking -INFO - Entered password
+2021-11-18 14:50:18,339 - inetbanking -INFO - Clicked on submit
+2021-11-18 14:50:18,365 - inetbanking -INFO - Customer Resistration process successfully completed
+2021-11-18 14:50:50,339 - inetbanking -INFO - URL launched
+2021-11-18 14:50:50,560 - inetbanking -INFO - Entered username
+2021-11-18 14:50:50,675 - inetbanking -INFO - Entered password
+2021-11-18 14:50:52,780 - inetbanking -INFO - Clicked on Login Button
+2021-11-18 14:50:52,818 - inetbanking -INFO - Got expected Title
+2021-11-18 14:50:59,257 - inetbanking -INFO - Entered username
+2021-11-18 14:50:59,389 - inetbanking -INFO - Entered password
+2021-11-18 14:51:01,753 - inetbanking -INFO - clicked on login button
+2021-11-18 14:51:02,353 - inetbanking -INFO - Clicked on New Customer on home page
+2021-11-18 14:51:02,462 - inetbanking -INFO - Entered customer name
+2021-11-18 14:51:02,601 - inetbanking -INFO - Entered date of birth
+2021-11-18 14:51:02,741 - inetbanking -INFO - Entered Address
+2021-11-18 14:51:02,873 - inetbanking -INFO - Entered city name
+2021-11-18 14:51:02,983 - inetbanking -INFO - Entered state name
+2021-11-18 14:51:03,087 - inetbanking -INFO - Entered pincode
+2021-11-18 14:51:03,194 - inetbanking -INFO - Entered Mobile number
+2021-11-18 14:51:03,338 - inetbanking -INFO - Entered Email id
+2021-11-18 14:51:03,429 - inetbanking -INFO - Entered password
+2021-11-18 14:51:05,066 - inetbanking -INFO - Clicked on submit
+2021-11-18 14:51:05,087 - inetbanking -INFO - Customer Resistration process successfully completed

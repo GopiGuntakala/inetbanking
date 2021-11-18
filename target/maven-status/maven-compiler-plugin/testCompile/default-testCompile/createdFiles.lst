@@ -1,0 +1,8 @@
+com\inetbanking\Testcases\TC_createcustomer_002.class
+com\inetbanking\Testcases\TC_Login_001.class
+com\inetbanking\pageObjects\login_pageObjects.class
+com\inetbanking\Testcases\BaseClass.class
+com\inetbanking\utilities\excelutilities.class
+com\inetbanking\utilities\Reporting.class
+com\inetbanking\pageObjects\customer_creation.class
+com\inetbanking\utilities\Readconfig.class
